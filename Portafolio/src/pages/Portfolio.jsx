@@ -112,11 +112,6 @@ const Portfolio = () => {
             </div>
           </div>
         </div>
-
-        <div className={styles['scroll-indicator']}>
-          <span>Explora mi trabajo</span>
-          <ArrowRight className={styles['scroll-arrow']} size={20} />
-        </div>
       </div>
     </div>
   );
