@@ -12,7 +12,7 @@ const Projects = () => {
       name: 'Calculadora',
       description: 'Calculadora básica con operaciones matemáticas fundamentales. Interfaz limpia y funcional desarrollada con JavaScript vanilla.',
       technologies: ['HTML', 'CSS', 'JavaScript', `React`],
-      url: 'https://23065.dernait.my/calculadora/',
+      url: 'https://23065.dernait.my/portafolio/calculadora/',
       githubUrl: 'https://github.com/JosFer720/calculadora-web',
       icon: Calculator,
       status: 'Completado'
@@ -22,7 +22,7 @@ const Projects = () => {
       name: 'Lab3',
       description: 'Historia interactiva desarrollada exclusivamente con HTML, sin uso de CSS ni JavaScript.',
       technologies: ['HTML'],
-      url: 'https://23065.dernait.my/lab3/',
+      url: 'https://23065.dernait.my/portafolio/lab3/',
       githubUrl: 'https://github.com/JosFer720/lab3html',
       icon: Code,
       status: 'Completado'
@@ -32,7 +32,7 @@ const Projects = () => {
       name: 'Lab4 CSS',
       description: 'Proyecto de reproducción visual utilizando únicamente HTML y CSS, sin ningún uso de JavaScript.',
       technologies: ['HTML', 'CSS puro', 'Selectores avanzados'],
-      url: 'https://23065.dernait.my/lab4css/lab4css.html',
+      url: 'https://23065.dernait.my/portafolio/lab4css/lab4css.html',
       githubUrl: 'https://github.com/JosFer720/lab4css',
       icon: Image,
       status: 'Completado'
@@ -42,7 +42,7 @@ const Projects = () => {
       name: 'Lab6 React',
       description: 'Juego de memoria desarrollado en React sin utilizar herramientas de scaffolding como Create React App o Vite.',
       technologies: ['React', 'JavaScript', 'CSS Grid', 'Animaciones'],
-      url: 'https://23065.dernait.my/lab6react/',
+      url: 'https://23065.dernait.my/portafolio/slab6react/',
       githubUrl: 'https://github.com/JosFer720/lab6react',
       icon: List,
       status: 'Completado'
