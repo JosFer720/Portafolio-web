@@ -42,7 +42,7 @@ const Projects = () => {
       name: 'Lab6 React',
       description: 'Juego de memoria desarrollado en React sin utilizar herramientas de scaffolding como Create React App o Vite.',
       technologies: ['React', 'JavaScript', 'CSS Grid', 'Animaciones'],
-      url: 'https://23065.dernait.my/portafolio/slab6react/',
+      url: 'https://23065.dernait.my/portafolio/lab6react/',
       githubUrl: 'https://github.com/JosFer720/lab6react',
       icon: List,
       status: 'Completado'
